@@ -1,8 +1,8 @@
 # Functional Programming Car Sales Data Analysis System
 
-This project demonstrates a comprehensive car sales data analysis system built using **functional programming paradigms** in JavaScript/TypeScript and **Prolog** for logical queries and knowledge representation.
+This project demonstrates a comprehensive car sales data analysis system built using **functional programming paradigms** in JavaScript and **Prolog** for logical queries and knowledge representation.
 
-## 🎯 Project Overview
+## Project Overview
 
 The system processes car sales data from a CSV file and provides various analytical operations using:
 - **Pure Functions**: No side effects, predictable outputs
